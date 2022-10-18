@@ -1,18 +1,17 @@
 ![MasterHead](./assets/DS-logo-banner.png)
-<h2 align="center" style="color:rgb(60, 70, 186)">Hi, there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Welcome to my development playground. 🛝</h2>
+<h2 align="center" style="color:rgb(60, 70, 186)">Hi, there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Welcome to my development playground. 🛝</h2></br>
 
-</br>
-<details>
-<summary style="color:violet"><b><img src="./assets/avatar-med.png" /> About Me</b></summary>
-<p style="color:rgb(156, 215, 240)">I am a new developer, having recently earned a certificate through UTSA's 24-week web bootcamp. Before deciding to pivot wildly into programming, I have been a freelance writer and editor, as well as have 20-plus years experience in customer service.</p> 
-
-</details></br>
 <div style="color:violet">- 🔭 I’m currently working on ... getting myself employer ready.</br>
 - 🌱 I’m currently learning ... to further hone all the skills I've recently learned at the UTSA Web Development Bootcamp</br>
 - ⚡ Fun fact: ... I used to be front woman in a band called Simplicity Myth.
 </div>
 </br>
-</br></br>
+<details>
+<summary style="color:purple"><b><img src="./assets/avatar-med.png" /> About Me</b></summary>
+<p style="color:rgb(156, 215, 240)">I am a new developer, having recently earned a certificate through UTSA's 24-week web bootcamp. Before deciding to pivot wildly into programming, I have been a freelance writer and editor, as well as have 20-plus years experience in customer service.</p> 
+
+</details></br>
+</br>
 
 <h2 style="color:rgb(85, 32, 150)">🛠️ Tools and Languages</h2>
 
